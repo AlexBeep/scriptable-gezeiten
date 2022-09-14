@@ -9,3 +9,12 @@ Example:
 
 # Instructions
 1. Download http://scriptable.app on your device.
+2. Open App and tap on blue plus on top right corner.
+3. Copy and paste one of the scripts and tap "Done" top left.
+4. Add a Scriptable widget: https://support.apple.com/en-us/HT207122 and choose smallest size.
+5. Edit you widget (see same site as 4.) and use these settings:
+    - Script: chose script you saved at 3.
+    - When Interacting: Open URL
+    - URL: copy and paste your destination (e.g. http://gezeiten-kalender.de:9099/locations/2797.html)
+    - Parameter: same as URL
+6. Done. When you tap on the widget the URL with all details open in browser.
