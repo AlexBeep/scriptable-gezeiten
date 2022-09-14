@@ -19,4 +19,5 @@ Example:
     - Parameter: same as URL
 
 
+![IMG_9203](https://user-images.githubusercontent.com/94117520/190148864-63f5f580-7fe6-442a-b82d-18434267d0bf.jpg)
 6. Done. When you tap on the widget the URL with all details open in browser.
