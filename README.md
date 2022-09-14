@@ -17,4 +17,6 @@ Example:
     - When Interacting: Open URL
     - URL: copy and paste your destination (e.g. http://gezeiten-kalender.de:9099/locations/2797.html)
     - Parameter: same as URL
+
+
 6. Done. When you tap on the widget the URL with all details open in browser.
