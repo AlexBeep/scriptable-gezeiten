@@ -8,7 +8,7 @@ const $DarkMode = Device.isUsingDarkAppearance();
 // Link zur Station auf gezeiten-kalender.de,
 // wird als Parameter im Widget übergeben.
 let $Station = args.widgetParameter;
-// $Station = 'http://gezeiten-kalender.de:9099/locations/2797.html';
+if (!$Station) $Station = 'http://gezeiten-kalender.de:9099/locations/2797.html';
 
 // Inhalte der gewählten Station auslesen
 let $Webview = new WebView();
