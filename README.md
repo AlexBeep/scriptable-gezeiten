@@ -1,5 +1,5 @@
 # Tides Widget for Scriptable on iOS
-Three iOS-Widgets for Scriptable showing high/low tides for one spot at the present day (textual or graphical)
+Two iOS-Widgets for Scriptable showing high/low tides for one spot at the present day (textual or graphical) including moon/sun set/rise and one widget only showing high and low tides for today and tomorrow.
 
 Data is taken from http://gezeiten-kalender.de. Just chose a destination (e.g. http://gezeiten-kalender.de:9099/locations/2797.html oder http://gezeiten-kalender.de:9099/locations/norddeich) and add the URL as a widget parameter.
 
