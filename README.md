@@ -4,8 +4,11 @@ Two iOS-Widgets for Scriptable showing high/low tides for one spot at the presen
 Data is taken from http://gezeiten-kalender.de. Just chose a destination (e.g. http://gezeiten-kalender.de:9099/locations/2797.html oder http://gezeiten-kalender.de:9099/locations/norddeich) and add the URL as a widget parameter.
 
 Example:
+![IMG_9206](https://user-images.githubusercontent.com/94117520/191450870-e080797b-ad4b-4071-8d7f-15f42c0ea7b7.jpg)
 
-![Screenshot_Widgets-Gezeiten](https://user-images.githubusercontent.com/94117520/190136107-36f02ae3-5363-4d73-ac0d-9a323d5c9ef2.jpg)
+Example Dark Mode:
+![IMG_9207](https://user-images.githubusercontent.com/94117520/191450958-189f6537-653b-4346-a382-d3400d6f6d38.jpg)
+
 
 # Instructions
 1. Download http://scriptable.app on your device.
