@@ -4,15 +4,12 @@ Three iOS-Widgets for Scriptable showing tides for one spot per widget, textual 
 Data is taken from http://gezeiten-kalender.de. Just chose a destination (e.g. http://gezeiten-kalender.de:9099/locations/2797.html oder http://gezeiten-kalender.de:9099/locations/norddeich) and add the URL as a widget parameter.
 
 1.) GezeitenText
-
 Textual widget including high/low tides and moon/sun set/rise for the next six occurrences.
 
 2.) GezeitenBild
-
 Graphical widget including high/low tides and moon/sun set/rise for the next 14 hours. When refreshed the left border ist the current time.
 
 3.) GezeitenTextPur
-
 Only high and low tides for the present day and the next day.
 
 Example:
