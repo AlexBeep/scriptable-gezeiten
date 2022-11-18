@@ -2,7 +2,7 @@
 Three iOS-Widgets for Scriptable showing tides for one spot per widget, textual or graphical.
 ## Description
 
-Data is taken from http://gezeiten-kalender.de. Just chose a destination (e.g. http://gezeiten-kalender.de:9099/locations/2797.html oder http://gezeiten-kalender.de:9099/locations/norddeich) and add the URL as a widget parameter.
+Data is taken from http://gezeiten-kalender.de. Just chose a destination (e.g. http://gezeiten-kalender.de:9099/locations/123.html oder http://gezeiten-kalender.de:9099/locations/norddeich) and add the URL as a widget parameter.
 
 **1. GezeitenText**
 
