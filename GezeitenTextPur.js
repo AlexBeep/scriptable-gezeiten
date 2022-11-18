@@ -10,7 +10,7 @@ const $SchriftHals = new Font('ArialMT', 10);
 // Link zur Station auf gezeiten-kalender.de,
 // wird als Parameter im Widget übergeben.
 let $Station = args.widgetParameter;
-if (!$Station) $Station = 'http://gezeiten-kalender.de:9099/locations/2797.html';
+if (!$Station) $Station = 'http://gezeiten-kalender.de:9099/locations/123.html';
 
 // Inhalte der gewählten Station auslesen
 let $Webview = new WebView();
